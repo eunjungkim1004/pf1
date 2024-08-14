@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"name": "[자바스크립트&제이쿼리]",
+			"path": "../../../[자바스크립트&제이쿼리]"
+		},
+		{
+			"name": "1.기초예제",
+			"path": "../../../[자바스크립트&제이쿼리]/1.기초예제"
+		},
+		{
+			"name": "pf1",
+			"path": ".."
+		},
+		{
+			"name": "pf2",
+			"path": "../../pf2/pf2"
+		},
+		{
+			"name": "pf3-hiteJinro-initial",
+			"path": "../../pf3-hiteJinro-initial"
+		},
+		{
+			"path": "../../pf4"
+		},
+		{
+			"path": "../../portfolio-개인"
+		}
+	],
+	"settings": {}
+}

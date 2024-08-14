@@ -333,6 +333,17 @@ textarea {
     color: #222;
 }
 
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
 img {
     vertical-align: middle;
 }
@@ -355,12 +366,11 @@ textarea {
 }
 a{
     color: initial;
-    text-decoration: none;
+    text-decoration: none ;
 }
 button{
-    all:unset;
+	all: unset; 
 }
-
 
 
 
